@@ -1,4 +1,4 @@
-# Assessing the Effects of Applying Ranking-Boosting Strategy on Friends Recommendation System on User Activeness on Kuaishou Short-Video Social Network Platform 
+# Impact of Ranking-Boosting Strategies in Friend Recommender Systems on User Activeness in Kuaishou Social Networks
 
 (Master Program Capstone Project Paper, inspired by my Internship at the User Relationship Recommendation team at Kuaishou)
 
